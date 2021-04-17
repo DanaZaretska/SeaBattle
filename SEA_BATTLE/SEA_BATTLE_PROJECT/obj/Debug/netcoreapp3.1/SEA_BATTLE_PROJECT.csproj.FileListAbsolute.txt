@@ -1,0 +1,17 @@
+C:\Users\danaz\Source\Repos\SEA_BATTLE\SEA_BATTLE_PROJECT\bin\Debug\netcoreapp3.1\SEA_BATTLE_PROJECT.exe
+C:\Users\danaz\Source\Repos\SEA_BATTLE\SEA_BATTLE_PROJECT\bin\Debug\netcoreapp3.1\SEA_BATTLE_PROJECT.deps.json
+C:\Users\danaz\Source\Repos\SEA_BATTLE\SEA_BATTLE_PROJECT\bin\Debug\netcoreapp3.1\SEA_BATTLE_PROJECT.runtimeconfig.json
+C:\Users\danaz\Source\Repos\SEA_BATTLE\SEA_BATTLE_PROJECT\bin\Debug\netcoreapp3.1\SEA_BATTLE_PROJECT.runtimeconfig.dev.json
+C:\Users\danaz\Source\Repos\SEA_BATTLE\SEA_BATTLE_PROJECT\bin\Debug\netcoreapp3.1\SEA_BATTLE_PROJECT.dll
+C:\Users\danaz\Source\Repos\SEA_BATTLE\SEA_BATTLE_PROJECT\bin\Debug\netcoreapp3.1\SEA_BATTLE_PROJECT.pdb
+C:\Users\danaz\Source\Repos\SEA_BATTLE\SEA_BATTLE_PROJECT\obj\Debug\netcoreapp3.1\SEA_BATTLE_PROJECT.csprojAssemblyReference.cache
+C:\Users\danaz\Source\Repos\SEA_BATTLE\SEA_BATTLE_PROJECT\obj\Debug\netcoreapp3.1\SEA_BATTLE_PROJECT.Form1.resources
+C:\Users\danaz\Source\Repos\SEA_BATTLE\SEA_BATTLE_PROJECT\obj\Debug\netcoreapp3.1\SEA_BATTLE_PROJECT.Properties.Resources.resources
+C:\Users\danaz\Source\Repos\SEA_BATTLE\SEA_BATTLE_PROJECT\obj\Debug\netcoreapp3.1\SEA_BATTLE_PROJECT.csproj.GenerateResource.cache
+C:\Users\danaz\Source\Repos\SEA_BATTLE\SEA_BATTLE_PROJECT\obj\Debug\netcoreapp3.1\SEA_BATTLE_PROJECT.AssemblyInfoInputs.cache
+C:\Users\danaz\Source\Repos\SEA_BATTLE\SEA_BATTLE_PROJECT\obj\Debug\netcoreapp3.1\SEA_BATTLE_PROJECT.AssemblyInfo.cs
+C:\Users\danaz\Source\Repos\SEA_BATTLE\SEA_BATTLE_PROJECT\obj\Debug\netcoreapp3.1\SEA_BATTLE_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\danaz\Source\Repos\SEA_BATTLE\SEA_BATTLE_PROJECT\obj\Debug\netcoreapp3.1\SEA_BATTLE_PROJECT.dll
+C:\Users\danaz\Source\Repos\SEA_BATTLE\SEA_BATTLE_PROJECT\obj\Debug\netcoreapp3.1\SEA_BATTLE_PROJECT.pdb
+C:\Users\danaz\Source\Repos\SEA_BATTLE\SEA_BATTLE_PROJECT\obj\Debug\netcoreapp3.1\SEA_BATTLE_PROJECT.genruntimeconfig.cache
+C:\Users\danaz\Source\Repos\SEA_BATTLE\SEA_BATTLE_PROJECT\obj\Debug\netcoreapp3.1\SEA_BATTLE_PROJECT.Functions.resources
